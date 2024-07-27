@@ -4,7 +4,7 @@
   <img alt="Nkpozi_Marcel_cover" src="assets/github_cover.png" />
 </p>
 
-Hello and welcome! 👋🏾💜, I'm thrilled to have you here. This GitHub repository showcases my journey as a Flutter developer, featuring a curated collection of my projects, contributions, and learning experiences. As a Flutter Developer, having worked on projects varying from Fintechs 💵, Health⚕️, e-Commerce 🚚, AI 🤖, Religion ✝️ etc, am currently seeking remote or relocation opportunities. Feel free to browse through my projects, check out the code, and see what I've been working on. If you have any questions, suggestions, or just want to say hi, don't hesitate to reach out ☎️ 📞!
+Hello and welcome! 👋🏾💜, I'm thrilled to have you here. This GitHub repository showcases my journey as a Flutter developer, featuring a curated collection of my projects, contributions, and learning experiences. As a Flutter Developer, having worked on projects varying from Fintechs 💵, Health⚕️, e-Commerce 🚚, AI 🤖, and Religion ✝️ etc, I am currently seeking remote or relocation opportunities. Feel free to browse through my projects, check out the code, and see what I've been working on. If you have any questions, or suggestions, or just want to say hi, don't hesitate to reach out ☎️ 📞!
 
 <br/>
 
@@ -89,7 +89,7 @@ EYE-DR is a groundbreaking mobile application designed to enhance the screening 
 ## Key Features
 1. Intuitive and user-friendly interface: 
 
-        - Enjoy a sleek and intuitive user interface designed for seamless navigation and effortless interaction.
+        - Enjoy a sleek and intuitive user interface for seamless navigation and effortless interaction.
 
         - Light and dark modes
 
@@ -110,12 +110,12 @@ EYE-DR is a groundbreaking mobile application designed to enhance the screening 
 
 5. Multi-coin feature: 
 
-        - Buy, sell, swap and HODL over 40 coins and tokens on the Kochure app.
+        - Buy, sell, swap, and HODL over 40 coins and tokens on the Kochure app.
 
 
 5. Savings: 
 
-        - Unlock the power of this feature and watch your savings thrive with up to 12% interest. With options to top-up and withdraw at anytime(Flexible)
+        - Unlock the power of this feature and watch your savings thrive with up to 12% interest. With options to top-up and withdraw at any time (Flexible)
 
 
 
@@ -198,7 +198,7 @@ https://github.com/Captured-Heart/connect_me/assets/69226443/63c2abe0-4c5f-4151-
 
 5. User-Friendly Interface:
 
-         - Enjoy a sleek and intuitive user interface designed for seamless navigation and effortless interaction.
+         - Enjoy a sleek and intuitive user interface for seamless navigation and effortless interaction.
 
          - Light and dark modes
 
