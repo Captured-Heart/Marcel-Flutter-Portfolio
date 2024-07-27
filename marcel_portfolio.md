@@ -132,8 +132,9 @@ EYE-DR is a groundbreaking mobile application designed to enhance the screening 
 <br/>
 
 ## (Intro-Video)
-
+<p align="center">
 https://github.com/Captured-Heart/connect_me/assets/69226443/63c2abe0-4c5f-4151-9f9a-77beb289a4b7
+</p>
 
 ## Connect-Me: QR code Digital ID
 
