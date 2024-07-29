@@ -14,6 +14,10 @@ EYE-DR is a groundbreaking mobile application designed to enhance the screening 
 
 ## (Intro-Video)
 
+
+https://github.com/user-attachments/assets/ffbe90d8-951f-40c9-a622-776e3f658a7b
+
+
 ## Eye-Dr: Screening and management of diabetic retinopathy (DR)
 
 <div style="text-align: center">
