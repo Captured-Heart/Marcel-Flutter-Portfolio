@@ -86,7 +86,7 @@ https://github.com/user-attachments/assets/ffbe90d8-951f-40c9-a622-776e3f658a7b
 
 # 2. Kochure <a href='https://play.google.com/store/apps/details?id=com.kochure.kochureApp'><img alt='Download on the Play Store' src='./assets/google_play.png' height='23px' align="center"/></a> <a href='https://apps.apple.com/us/app/kochure-buy-and-sell-crypto/id1595574962'><img alt='Download on the App Store' src='./assets/app_store.png' height='23px' align="center"/></a>
 
-         Easily convert your cryptocurrencies to cash in Nigeria at the lowest fees. Pay the lowest transaction fee of 1.99% on every transaction and begin your crypto journey with as little as N500.
+  Easily convert your cryptocurrencies to cash in Nigeria at the lowest fees. Pay the lowest transaction fee of 1.99% on every transaction and begin your crypto journey with as little as N500.
 
 ## (Intro-Video)
 
