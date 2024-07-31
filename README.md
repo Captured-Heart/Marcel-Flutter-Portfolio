@@ -144,7 +144,11 @@ https://github.com/user-attachments/assets/ffbe90d8-951f-40c9-a622-776e3f658a7b
 
 ## Tools:
 
-        - Themes (Light🌕 and dark 🌒) - NodeJs (Login/Sign up, Reset Password, biometric) - Binance API - Push Notification (Firebase Messaging🔥) - QR-code generator and scan for wallet address and payment 攀 - Provider for State Management 🚀
+   - Themes (Light🌕 and dark 🌒) 
+   - NodeJs (Login/Sign up, Reset Password, biometric) 
+   - Binance API - Push Notification (Firebase Messaging🔥) 
+   - QR-code generator and scan for wallet address and payment 攀 
+   - Provider for State Management 🚀
 
 #
 
