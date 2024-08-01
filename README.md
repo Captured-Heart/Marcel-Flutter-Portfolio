@@ -90,6 +90,10 @@ https://github.com/user-attachments/assets/ffbe90d8-951f-40c9-a622-776e3f658a7b
 
 ## (Intro-Video)
 
+
+https://github.com/user-attachments/assets/e85cf921-20df-4fb3-98a3-9e96f8987566
+
+
 ## Kochure: hold, buy, sell, save, receive cryptocurrencies
 
 <div style="text-align: center">
@@ -239,6 +243,10 @@ https://github.com/Captured-Heart/connect_me/assets/69226443/63c2abe0-4c5f-4151-
 Hometown is not just an app; it's your passport to financial bliss. Embrace banking freedom. Manage your finances from the comfort of your home, office, or while you're on the move - 24/7 accessibility guaranteed.
 
 ## (Intro-Video)
+
+
+https://github.com/user-attachments/assets/4e570419-3292-40a0-b6a7-a01e754ff043
+
 
 ## Hometown: The Ultimate Banking Experience
 
