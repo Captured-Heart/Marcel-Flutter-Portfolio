@@ -62,9 +62,6 @@ https://github.com/user-attachments/assets/ffbe90d8-951f-40c9-a622-776e3f658a7b
 
         - Get detailed diagnostic reports with actionable insights. Cross-Platform Availability: Available on both iOS and Android.
 
-5.  Multi-coin feature:
-
-        - Buy, sell, swap and HODL over 40 coins and tokens on the Kochure app.
 
 ## Tools
 
