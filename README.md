@@ -8,15 +8,148 @@ Hello and welcome! 👋🏾💜, I'm thrilled to have you here. This GitHub repo
 
 <br/>
 
-# 1. Eye-Dr <a href='https://play.google.com/store/apps/details?id=com.capturedHeart.eyeDr'><img alt='Download on the Play Store' src='./assets/google_play.png' height='23px' align="center"/></a>
+#
+
+# 1. Soloride
+
+<!-- <a href='https://play.google.com/store/apps/details?id=com.capturedHeart.eyeDr'><img alt='Download on the Play Store' src='./assets/google_play.png' height='23px' align="center"/></a> -->
+
+To revolutionize transportation in Nigeria by creating a ride-hailing platform that prioritizes affordability, safety, and community, while empowering drivers and providing seamless experiences for passengers.
+
+## (Intro-Video)
+
+## Drive with Soloride: Earn more, stress less !!!
+
+<div style="text-align: center">
+  <table>
+    <tr>
+      <td style="text-align: center">
+        <img src="assets/Soloride/soloride_home.png" width="600" />
+      </td>
+      <td style="text-align: center">
+        <img src="assets/Soloride/soloride_price.png" width="600" />
+      </td>
+      <td style="text-align: center">
+        <img src="assets/Soloride/soloride_preferences.png" width="600" />
+      </td>
+       <td style="text-align: center">
+        <img src="assets/Soloride/soloride_referrals.png" width="600" />
+      </td>
+    </tr> 
+     <tr>
+      <td style="text-align: center">
+        <img src="assets/Soloride/soloride_home2.png" width="600" />
+      </td>
+      <td style="text-align: center">
+        <img src="assets/Soloride/soloride_trip_history.png" width="600" />
+      </td>
+      <td style="text-align: center">
+        <img src="assets/Soloride/soloride_music.png" width="600" />
+      </td>
+       <td style="text-align: center">
+        <img src="assets/Soloride/soloride_support.png" width="600" />
+      </td>
+    </tr>   
+  </table>
+</div>
+
+## Key Features
+
+1.  Functional Google Map:
+
+        - The map is designed to display polylines for showing routes between the rider's and driver's locations. This ensures that both the rider and driver can track the path clearly and navigate smoothly.
+
+        - Dynamic Map Themes: The app offers dynamic themes that adjust the appearance of the map based on the app's state.
+
+2.  Seamless Voice Calls:
+
+        - The in-app calling system provides users with an uninterrupted experience while communicating. Whether it’s for confirming pick-up points or clarifying trip details, both riders and drivers can make calls effortlessly.
+
+3.  Saved Routes:
+
+        - Riders and drivers can save common destinations and this eliminates the need to manually input these addresses each time.
+
+4.  Trip Histories :
+
+        - The app offers the ability to view detailed trip histories, allowing riders and drivers to track past rides and review the trip details.
+
+## Tools
+
+- Flutter/Dart 💙
+- Firebase (firestore, storage) 🔥
+- Cloud Notifications 🌩️
+- Shared Preferences 💾
+- Calls (with Agora SDK) 🤙
+- Google Maps (polylines, markers, real-time) 🗺️📍
+- Riverpod for State Management 🚀
+- Websocket 🔌
+- Optimized for iOS and Android 📱 <br/>
+
+#
+
+# 2. GovDrive
+
+Welcome to Gov drive, where MDA’s can safeguard all their important documents and files securely. Say goodbye to the worry of losing physical documents and enjoy the convenience of accessing your files from anywhere, anytime.
+
+## (Intro-Video)
+
+## Never Lose a File Again. Secure Your Documents with 1Gov Drive
+
+<div style="text-align: center">
+  <table>
+    <tr>
+     <td style="text-align: center">
+        <img src="assets/1gov/1gov_auth.png" width="600" />
+      </td>
+      <td style="text-align: center">
+        <img src="assets/1gov/1gov_drawer.png" width="600" />
+      </td>
+      <td style="text-align: center">
+        <img src="assets/1gov/1gov_file_options.png" width="600" />
+      </td>
+       <td style="text-align: center">
+        <img src="assets/1gov/1gov_pdf.png" width="600" />
+      </td>
+    </tr>  
+  </table>
+</div>
+
+## Key Features
+
+1.  View, Share, Copy, and Send Files:
+
+        -The app offers robust functionality for managing files in different formats, allowing users to interact with them in several ways.
+
+2.  Sign Documents:
+
+        - The app includes a document signing feature that allows users to sign documents electronically.
+
+3.  Universal Document Viewers:
+
+        - Whether the user is dealing with PDFs, Word, Excel, PowerPoint, image files, or even more specialized formats, the app can open and display them properly. This feature ensures that users can handle a diverse array of documents without needing multiple apps
+
+4.  Search Functionalities:
+
+        - The search functionality in the app allows users to quickly find specific documents or content within folders.
+
+## Tools
+
+- Flutter/Dart 💙
+- REST API 🌩️
+- Shared Preferences 💾
+- Document Viewer 📑
+- Riverpod for State Management 🚀
+- Optimized for iOS and Android 📱
+
+#
+
+# 3. Eye-Dr <a href='https://play.google.com/store/apps/details?id=com.capturedHeart.eyeDr'><img alt='Download on the Play Store' src='./assets/google_play.png' height='23px' align="center"/></a>
 
 EYE-DR is a groundbreaking mobile application designed to enhance the screening and management of diabetic retinopathy (DR). Tailored for healthcare professionals and individuals with diabetes, EYE-DR leverages advanced technology to provide a seamless, efficient, and accurate solution for retinal imaging and DR detection.
 
 ## (Intro-Video)
 
-
 https://github.com/user-attachments/assets/ffbe90d8-951f-40c9-a622-776e3f658a7b
-
 
 ## Eye-Dr: Screening and management of diabetic retinopathy (DR)
 
@@ -62,10 +195,9 @@ https://github.com/user-attachments/assets/ffbe90d8-951f-40c9-a622-776e3f658a7b
 
         - Get detailed diagnostic reports with actionable insights. Cross-Platform Availability: Available on both iOS and Android.
 
-
 ## Tools
 
-- Flutter/Dart 💙 
+- Flutter/Dart 💙
 - Firebase (firestore, auth, storage) 🔥
 - Shared Preferences 💾
 - Lottie 🐠
@@ -80,16 +212,75 @@ https://github.com/user-attachments/assets/ffbe90d8-951f-40c9-a622-776e3f658a7b
 <br/>
 
 #
+# 4. AssetWize
 
-# 2. Kochure <a href='https://play.google.com/store/apps/details?id=com.kochure.kochureApp'><img alt='Download on the Play Store' src='./assets/google_play.png' height='23px' align="center"/></a> <a href='https://apps.apple.com/us/app/kochure-buy-and-sell-crypto/id1595574962'><img alt='Download on the App Store' src='./assets/app_store.png' height='23px' align="center"/></a>
-
-  Easily convert your cryptocurrencies to cash in Nigeria at the lowest fees. Pay the lowest transaction fee of 1.99% on every transaction and begin your crypto journey with as little as N500.
+This secure file management app focuses on protecting sensitive user information, such as insurance documents, land titles, jewelry receipts, and other valuable assets, by encrypting and storing them securely on the user's phone. Additionally, the app offers an optional backup feature to sync the files with the user’s cloud or drive for extra security and accessibility.
 
 ## (Intro-Video)
 
+## Encrypted and secured documents
+
+<div style="text-align: center">
+  <table>
+    <tr>
+      <td style="text-align: center">
+        <img src="assets/assetWise/assetwise_home.png" width="600" />
+      </td>
+      <td style="text-align: center">
+        <img src="assets/assetWise/assetwise_home2.png" width="600" />
+      </td>
+      <td style="text-align: center">
+        <img src="assets/assetWise/assetwise_docs.png" width="600" />
+      </td>
+       <td style="text-align: center">
+        <img src="assets/assetWise/assetwise_insurance.png" width="600" />
+      </td>
+    </tr> 
+    
+  </table>
+</div>
+
+## Key Features
+
+1.  Encrypted Document Storage:
+
+        - All user documents, such as insurance policies, land deeds, jewelry receipts, and other critical assets, are encrypted using industry-standard encryption algorithms(AES-256). This ensures that sensitive information is protected from unauthorized access, even if the device is lost or compromised.
+
+2.  Offline-Support:
+
+        - Users can store and access their important documents directly on their phones, with everything kept within the app for ease of use even without internent enabled on the device.
+
+3.  Cloud Backup:
+
+        - The app allows users to create encrypted backups of their documents in the cloud, ensuring that files are stored securely off-device.
+
+        - Users can set automatic or manual backup intervals, giving them control over when and how their documents are backed up.
+
+4.  Intuitive and user-friendly interface:
+
+        - Users can create custom categories or folders (e.g., “Insurance,” “Land Titles,” “Jewelry Receipts”) to organize their documents based on asset type. This allows them to quickly find specific documents when needed.
+
+## Tools
+
+- Flutter/Dart 💙
+- Firebase (Authentication) 🔥
+- Cloud Backup (Google Drive & iCloud) 🌩️
+- Shared Preferences 💾
+- Encryption and Decryption 🔐
+- PDF Previewer 📄
+- PDF password removal 🔑
+- Riverpod for State Management 🚀
+- Optimized for iOS and Android 📱 <br/>
+
+#
+
+# 5. Kochure <a href='https://play.google.com/store/apps/details?id=com.kochure.kochureApp'><img alt='Download on the Play Store' src='./assets/google_play.png' height='23px' align="center"/></a> <a href='https://apps.apple.com/us/app/kochure-buy-and-sell-crypto/id1595574962'><img alt='Download on the App Store' src='./assets/app_store.png' height='23px' align="center"/></a>
+
+Easily convert your cryptocurrencies to cash in Nigeria at the lowest fees. Pay the lowest transaction fee of 1.99% on every transaction and begin your crypto journey with as little as N500.
+
+## (Intro-Video)
 
 https://github.com/user-attachments/assets/e85cf921-20df-4fb3-98a3-9e96f8987566
-
 
 ## Kochure: hold, buy, sell, save, receive cryptocurrencies
 
@@ -145,15 +336,15 @@ https://github.com/user-attachments/assets/e85cf921-20df-4fb3-98a3-9e96f8987566
 
 ## Tools:
 
-   - Themes (Light🌕 and dark 🌒) 
-   - NodeJs (Login/Sign up, Reset Password, biometric) 
-   - Binance API - Push Notification (Firebase Messaging🔥) 
-   - QR-code generator and scan for wallet address and payment 攀 
-   - Provider for State Management 🚀
+- Themes (Light🌕 and dark 🌒)
+- NodeJs (Login/Sign up, Reset Password, biometric)
+- Binance API - Push Notification (Firebase Messaging🔥)
+- QR-code generator and scan for wallet address and payment 攀
+- Provider for State Management 🚀
 
 #
 
-# 3. Connect-Me <a href='https://apps.apple.com/ng/app/connect-me-digital-identity/id6478838388'><img alt='Download on the App Store' src='./assets/app_store.png' height='23px'/></a> <a href='https://play.google.com/store/apps/details?id=com.capturedHeart.connectMe'><img alt='Get it on Google Play' src='./assets/google_play.png' height='23px'/></a>
+# 6. Connect-Me <a href='https://apps.apple.com/ng/app/connect-me-digital-identity/id6478838388'><img alt='Download on the App Store' src='./assets/app_store.png' height='23px'/></a> <a href='https://play.google.com/store/apps/details?id=com.capturedHeart.connectMe'><img alt='Get it on Google Play' src='./assets/google_play.png' height='23px'/></a>
 
 <strong> Connect_Me is a user-friendly mobile application that empowers users to streamline their communication, networking, and information-sharing processes with the power of QR codes. Whether you're a professional seeking to exchange business details, a social media enthusiast connecting with new friends, or a tech-savvy individual looking for a convenient way to share information, Connect_Me is the ultimate solution for all your QR code needs. </strong>
 
@@ -235,15 +426,13 @@ https://github.com/Captured-Heart/connect_me/assets/69226443/63c2abe0-4c5f-4151-
 
 #
 
-# 4. Hometown <a href='https://play.google.com/store/apps/details?id=com.hometown.app'><img alt='Download hometown on the Play Store' src='./assets/google_play.png' height='23px' align="center"/></a> <a href='https://apps.apple.com/ng/app/hometown-banking-solution/id1525335534'><img alt='Download hometown on the App Store' src='./assets/app_store.png' height='23px' align="center"/></a>
+# 7. Hometown <a href='https://play.google.com/store/apps/details?id=com.hometown.app'><img alt='Download hometown on the Play Store' src='./assets/google_play.png' height='23px' align="center"/></a> <a href='https://apps.apple.com/ng/app/hometown-banking-solution/id1525335534'><img alt='Download hometown on the App Store' src='./assets/app_store.png' height='23px' align="center"/></a>
 
 Hometown is not just an app; it's your passport to financial bliss. Embrace banking freedom. Manage your finances from the comfort of your home, office, or while you're on the move - 24/7 accessibility guaranteed.
 
 ## (Intro-Video)
 
-
 https://github.com/user-attachments/assets/4e570419-3292-40a0-b6a7-a01e754ff043
-
 
 ## Hometown: The Ultimate Banking Experience
 
