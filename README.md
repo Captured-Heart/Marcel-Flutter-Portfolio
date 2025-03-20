@@ -4,7 +4,7 @@
   <img alt="Nkpozi_Marcel_cover" src="assets/github_cover.png" />
 </p>
 
-Hello and welcome! 👋🏾💜, I'm thrilled to have you here. This GitHub repository showcases my journey as a Flutter developer, featuring a curated collection of my projects, contributions, and learning experiences. As a Flutter Developer, having worked on projects varying from Fintechs 💵, Health⚕️, e-Commerce 🚚, AI 🤖, Religion ✝️ etc, am currently seeking remote or relocation opportunities. Feel free to browse through my projects, check out the code, and see what I've been working on. If you have any questions, suggestions, or just want to say hi, don't hesitate to reach out ☎️ 📞!
+Hello and welcome! 👋🏾💜, I'm thrilled to have you here. This GitHub repository showcases my journey as a Flutter developer, featuring a curated collection of my projects, contributions, and learning experiences. As a Flutter Developer, having worked on projects varying from Fintechs 💵, Health⚕️, e-Commerce 🚚, AI 🤖, and Religion ✝️ etc, am currently seeking remote or relocation opportunities. Feel free to browse through my projects, check out the code, and see what I've been working on. If you have any questions, or suggestions, or just want to say hi, don't hesitate to reach out ☎️ 📞!
 
 <br/>
 
@@ -17,6 +17,10 @@ Hello and welcome! 👋🏾💜, I'm thrilled to have you here. This GitHub repo
 To revolutionize transportation in Nigeria by creating a ride-hailing platform that prioritizes affordability, safety, and community, while empowering drivers and providing seamless experiences for passengers.
 
 ## (Intro-Video)
+
+
+https://github.com/user-attachments/assets/903c83b2-7155-464c-bdf7-7db3bbc19280
+
 
 ## Drive with Soloride: Earn more, stress less !!!
 
@@ -89,9 +93,13 @@ To revolutionize transportation in Nigeria by creating a ride-hailing platform t
 
 # 2. GovDrive
 
-Welcome to Gov drive, where MDA’s can safeguard all their important documents and files securely. Say goodbye to the worry of losing physical documents and enjoy the convenience of accessing your files from anywhere, anytime.
+Welcome to Gov Drive, where MDAs can safeguard all their important documents and files securely. Say goodbye to the worry of losing physical documents and enjoy the convenience of accessing your files from anywhere, anytime.
 
 ## (Intro-Video)
+
+
+https://github.com/user-attachments/assets/f7d5ef43-9d92-447d-9ee1-a3fa5d1aca97
+
 
 ## Never Lose a File Again. Secure Your Documents with 1Gov Drive
 
@@ -218,6 +226,10 @@ This secure file management app focuses on protecting sensitive user information
 
 ## (Intro-Video)
 
+
+https://github.com/user-attachments/assets/44548d57-05be-4267-b905-693c2e276b72
+
+
 ## Encrypted and secured documents
 
 <div style="text-align: center">
@@ -248,7 +260,7 @@ This secure file management app focuses on protecting sensitive user information
 
 2.  Offline-Support:
 
-        - Users can store and access their important documents directly on their phones, with everything kept within the app for ease of use even without internent enabled on the device.
+        - Users can store and access their important documents directly on their phones, with everything kept within the app for ease of use even without the Internet-enabled on the device.
 
 3.  Cloud Backup:
 
@@ -328,11 +340,11 @@ https://github.com/user-attachments/assets/e85cf921-20df-4fb3-98a3-9e96f8987566
 
 5.  Multi-coin feature:
 
-        - Buy, sell, swap and HODL over 40 coins and tokens on the Kochure app.
+        - Buy, sell, swap, and HODL over 40 coins and tokens on the Kochure app.
 
 6.  Savings:
 
-        - Unlock the power of this feature and watch your savings thrive with up to 12% interest. With options to top-up and withdraw at anytime(Flexible)
+        - Unlock the power of this feature and watch your savings thrive with up to 12% interest. With options to top-up and withdraw at any time (Flexible)
 
 ## Tools:
 
@@ -514,11 +526,11 @@ https://github.com/user-attachments/assets/4e570419-3292-40a0-b6a7-a01e754ff043
 ## Tools
 
 - [google_maps_flutter](https://pub.dev/packages/google_sign_in): A Flutter plugin that provides a Google Maps widget.
-- [SVG_Repo](https://www.svgrepo.com/vectors/shield/): Free Shield SVG Vectors and Icons. Shield icons and vector packs for Sketch, Figma, websites or apps. Browse 50 vector icons about Shield term.
-- [animated_flip_counter](https://pub.dev/packages/animated_flip_counter):An implicit animation widget that flips from one number to another.
+- [SVG_Repo](https://www.svgrepo.com/vectors/shield/): Free Shield SVG Vectors and Icons. Shield icons and vector packs for Sketch, Figma, websites, or apps. Browse 50 vector icons about the Shield term.
+- [animated_flip_counter](https://pub.dev/packages/animated_flip_counter): An implicit animation widget that flips from one number to another.
 - [auto_size_text](https://pub.dev/packages/auto_size_text): Flutter widget that automatically resizes text to fit perfectly within its bounds.
-- [flutter_animate](https://pub.dev/packages/flutter_animate):A performant library that makes it simple to add almost any kind of animated effect in Flutter.
-- [flutter_svg](https://pub.dev/packages/flutter_svg):Draw SVG files using Flutter.
+- [flutter_animate](https://pub.dev/packages/flutter_animate): A performant library that makes it simple to add almost any kind of animated effect in Flutter.
+- [flutter_svg](https://pub.dev/packages/flutter_svg): Draw SVG files using Flutter.
 
 </div>
 <div style="width: 0.3px; background-color: #ffffff;"></div>
