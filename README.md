@@ -1,4 +1,4 @@
-# Flutter-Developer-Portfolio
+# Mobile-Developer-Portfolio
 
 <p align="left">
   <img alt="Nkpozi_Marcel_cover" src="assets/github_cover.png" />
